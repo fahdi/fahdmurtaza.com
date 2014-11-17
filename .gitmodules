@@ -1,0 +1,3 @@
+[submodule "cms/wp-content/themes/Frank"]
+	path = cms/wp-content/themes/Frank
+	url = git@github.com:fahdi/Frank.git
